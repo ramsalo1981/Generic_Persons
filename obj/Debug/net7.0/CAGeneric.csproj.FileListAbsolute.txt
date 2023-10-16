@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\bin\Debug\net7.0\CAGeneric.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\bin\Debug\net7.0\CAGeneric.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\bin\Debug\net7.0\CAGeneric.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\bin\Debug\net7.0\CAGeneric.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\bin\Debug\net7.0\CAGeneric.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\obj\Debug\net7.0\CAGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\obj\Debug\net7.0\CAGeneric.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\obj\Debug\net7.0\CAGeneric.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\obj\Debug\net7.0\CAGeneric.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\obj\Debug\net7.0\CAGeneric.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\obj\Debug\net7.0\refint\CAGeneric.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\obj\Debug\net7.0\CAGeneric.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\obj\Debug\net7.0\CAGeneric.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAGeneric\obj\Debug\net7.0\ref\CAGeneric.dll
